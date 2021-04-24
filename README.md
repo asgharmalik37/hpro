@@ -23,4 +23,4 @@ Installation :
 
 🙄 cd hpro
 
-🙄 python2 file.py
+🙄 python2 Malik.py
